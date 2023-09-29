@@ -156,3 +156,4 @@ cython_debug/
 .folder/bin/autopep8
 .folder/bin/pycodestyle
 .idea
+venv
