@@ -155,5 +155,5 @@ cython_debug/
 .DS_Store
 .folder/bin/autopep8
 .folder/bin/pycodestyle
-.idea/
+Home_Task_1/.idea/
 venv/
